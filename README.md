@@ -32,7 +32,3 @@ where F_D is the normalized donor emission spectrum and ε_A is the acceptor mol
 ## Author
 
 mzjswjz
-
-## License
-
-MIT
